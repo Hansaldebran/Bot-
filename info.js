@@ -31,9 +31,9 @@ THANKS TO:
 -ABDUL MUTTAQIN(FDCIABDUL)
 
 
-bot aktif selama : ${Saat terhubung ke internet}
+bot aktif selama : ${}
 
- ${
+ {
 
- 👾TELEGRAM : ${telegram}`https://t.me/hnsran14
+}
 }
